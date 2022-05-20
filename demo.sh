@@ -1,1 +1,1 @@
-Performing Jenkins 
+echo 'Performing Jenkins' 

@@ -5,5 +5,5 @@ for i in l:
 
 print("Writing forloop for list.....")
 
-name = input("Enter name:")
-print("Name:", name)
+#name = input("Enter name:")
+#print("Name:", name)
